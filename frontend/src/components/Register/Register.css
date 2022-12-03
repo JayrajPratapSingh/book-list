@@ -1,0 +1,41 @@
+.register-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 95vh;
+    align-items: center;
+    background-color: rgb(64, 212, 231);
+}
+.register-form{
+    width: 25%;
+    background-color: white;
+   padding: 2vh;
+   box-shadow: 20px 20px 4px rgba(0,0,0,0.5);
+}
+
+.login-logo{
+    width: 4vh;
+    margin: auto;
+    padding: 2vh;
+    background-color: rgb(228, 228, 66);
+    border-radius: 50%;
+}
+.login-logo i{
+    font-size: 3.5vh;
+    box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.5);
+
+}
+.register-form input{
+  
+    font-size: 3vh;
+    margin: 2vh;
+    border-radius: 6px;
+    background-color: rgb(218, 216, 216);
+
+}
+.register-form button{
+font-size: 3vh;
+margin-top: 3vh;
+background-color: rgb(0, 153, 255);
+border-radius: 6px;
+}

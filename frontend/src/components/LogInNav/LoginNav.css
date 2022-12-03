@@ -1,0 +1,27 @@
+
+.LoginNav-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 6vh;
+    align-items: center;
+    background-color: rgb(9, 32, 32);
+  
+}
+.LoginNav-container ul{
+    width: 30%;
+display: flex;
+justify-content: space-around;
+list-style: none;
+
+}
+
+.LoginNav-container ul li{
+    font-size: 3vh;
+  
+   
+}
+Link{
+    text-decoration:none;
+    color: white;
+}

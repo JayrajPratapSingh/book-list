@@ -1,0 +1,59 @@
+.book-record-container{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(3, 12, 12);
+    color: white;
+    padding-top: 3vh;
+}
+.show-book-btn{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    
+
+}
+.show-book-btn button{
+    font-size: 3vh;
+    padding: 0.5vh;
+    border-radius: 6px;
+    border: 2px solid rgb(212, 179, 30);
+    background-color: rgba(0,0,0,0);
+    color: rgb(212, 179, 30);
+}
+table{
+    width: 40%;
+    margin: auto;
+    border: 1px solid rgb(145, 140, 140);
+    padding: 2vh;
+}
+
+table tr{
+    border: 1px solid rgb(145, 140, 140);
+    
+}
+td{
+    font-size: 3vh;
+}
+.btns{
+    width: 40%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.btns button{
+    background-color: rgba(0,0,0,0);
+    font-size: 3vh;
+    margin-top: 2vh;
+    padding: 1vh 3vh;
+    width: 45%;
+    border-radius: 6px;
+}
+.delete-btn{
+    border: 2px solid red;
+    color: red;
+
+}
+.edit-btn{
+    border: 2px solid rgb(31, 123, 243);
+    color: rgb(31, 123, 243);
+}
